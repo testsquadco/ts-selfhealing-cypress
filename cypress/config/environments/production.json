@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://www.testsquad.co",
+  "env": {
+    "environment": "production",
+    "apiUrl": "https://api.testsquad.co"
+  }
+} 

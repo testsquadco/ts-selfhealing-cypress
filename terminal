@@ -1,0 +1,8 @@
+mkdir cypress-self-healing
+cd cypress-self-healing
+npm init -y
+npm install cypress --save-dev
+mkdir -p cypress/pages
+mkdir -p cypress/config/environments
+mkdir -p cypress/support
+touch cypress/support/e2e.js 

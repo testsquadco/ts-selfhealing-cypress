@@ -1,0 +1,19 @@
+{
+  "name": "cypress-self-healing",
+  "version": "1.0.0",
+  "description": "Self-Healing Test Automation PoC using Cypress",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "test": "cypress run",
+    "test:dev": "CYPRESS_ENVIRONMENT=development cypress run",
+    "test:staging": "CYPRESS_ENVIRONMENT=staging cypress run",
+    "test:prod": "CYPRESS_ENVIRONMENT=production cypress run",
+    "cy:open:dev": "CYPRESS_ENVIRONMENT=development cypress open",
+    "cy:open:staging": "CYPRESS_ENVIRONMENT=staging cypress open",
+    "cy:open:prod": "CYPRESS_ENVIRONMENT=production cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.6"
+  }
+} 

@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://staging.testsquad.co",
+  "env": {
+    "environment": "staging",
+    "apiUrl": "https://api.staging.testsquad.co"
+  }
+} 

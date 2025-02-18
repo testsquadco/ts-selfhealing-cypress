@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://dev.testsquad.co",
+  "env": {
+    "environment": "development",
+    "apiUrl": "https://api.dev.testsquad.co"
+  }
+} 
