@@ -1,4 +1,8 @@
-# Cypress Self-Healing Test Automation PoC
+<p align="center">
+  <img src="https://staging.testsquad.co/wp-content/uploads/2025/02/testsquad-logo-500-469x100.png" width="400"/>
+</p>
+
+# TestSquad - Self-Healing Test Automation PoC using Cypress
 
 This project demonstrates a self-healing test automation framework using Cypress with Page Object Model pattern and multi-environment support.
 
@@ -78,3 +82,20 @@ Environment-specific configurations are stored in `cypress/config/environments/`
 - Base URLs
 - API endpoints
 - Environment-specific variables
+
+## Support
+
+Need help implementing this framework or looking for custom automation solutions? Contact TestSquad:
+
+- 📧 Email: info@testsquad.co
+- 🌐 Website: https://testsquad.co
+- 💼 Services: Mobile Testing, Automation Solutions, QA Consulting
+
+
+## License
+
+Released under the [MIT License](LICENSE).
+
+---
+
+<p align="center">Powered by <a href="https://testsquad.co">TestSquad</a> - Your Quality Assurance Partner</p>
